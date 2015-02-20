@@ -1,6 +1,8 @@
 BEAR.PhptalModule
 =============================
 
+> THIS PACKAGE IS DESIGNED FOR BEAR.Sundary version **0.x**
+
 Introduction
 ------------
 BEAR.PhptalModule is [PHPTAL](https://github.com/pornel/PHPTAL) adaptor extension for [BEAR.Sunday](https://github.com/koriym/BEAR.Sunday) framework.
